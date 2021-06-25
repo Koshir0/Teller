@@ -58,6 +58,10 @@
 /* 	border-color:blue;
 	width:33.33%; */
 }
+.parts:hover {
+  background-color: purple;
+  cursor: pointer;
+}
   h1 {
 	  background: -webkit-linear-gradient(45deg, #F5BD1F 10%, #8736AA 80%);
     background: linear-gradient(45deg, #47297B 10%, #8736AA 80%);

@@ -35,6 +35,7 @@
   }
 .row{
 	border-color:red;
+	width:100%;
 }
 .parts{
   text-align: center;

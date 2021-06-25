@@ -43,7 +43,7 @@
 .parts{
   text-align: center;
     line-height: 200px;
-    font-size: 1.4em;
+    font-size: 1.4rem;
     font-family: 'Faster One', cursive;
    background: -webkit-linear-gradient(45deg, #F5BD1F 10%, #8736AA 80%);
     background: linear-gradient(45deg, #47297B 10%, #8736AA 80%);
@@ -142,8 +142,11 @@ div{
 
 @media screen and (max-width: 500px), 
        screen and (min-height: 700px) {
-
+*{
+	font-size:2em;
+	       }
 	body  {
+		
    border:2px solid orange;
 /*     height: 100%; */
 	}

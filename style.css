@@ -9,10 +9,12 @@
     background-size:auto;
     // background-size:contain;
 	  margin:0 0;
-	  font-size:2rem;
+	  
 	  
   }
-
+*{
+	font-size:2rem;
+}
 .container {
   max-width: 100%;
   float: none;

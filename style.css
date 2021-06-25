@@ -140,7 +140,9 @@ div{
 		}
 
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 500px), 
+       screen and (max-height: 700px) {
+
 	body  {
    border:2px solid orange;
     height: 100vh;

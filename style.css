@@ -111,6 +111,10 @@ a{
   text-decoration:none;
   color:#000;
 }
+div{
+	border:1px solid purple;
+}
+
 
 .content {
 			background: url(http://smallenvelop.com/wp-content/uploads/2014/08/simple-pre-loader.jpg

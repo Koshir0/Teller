@@ -12,8 +12,8 @@
     background-size:auto;
     // background-size:contain;
 	  margin:0 0;
-	  animation: fadeInAnimation ease 3s
-    animation-iteration-count: infinte;
+	  animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
     animation-fill-mode: forwards;
 	  
   }

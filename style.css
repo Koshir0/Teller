@@ -140,6 +140,10 @@ div{
 
 
 @media screen and (max-width: 500px) {
+	body{
+		height: auto;
+	}
+	
  li {
     width: 90vw;
     // height: 200px;

@@ -59,7 +59,7 @@
 	width:33.33%; */
 }
 .parts:hover {
-  background-color: purple;
+  background-color: red;
   cursor: pointer;
 }
   h1 {

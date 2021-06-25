@@ -141,8 +141,9 @@ div{
 
 
 @media screen and (max-width: 500px) {
-	div.row{
-		height:auto;
+	body:before {
+   
+    height: auto;
 	}
 	body{
 		height: auto;

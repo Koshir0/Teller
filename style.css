@@ -7,13 +7,13 @@
 	  font-family: 'Faster One', cursive;
     width: 100%;
     height: 100vh;
-	  background:violet;
+	  background:purple;
 /*     background: url("https://media.istockphoto.com/vectors/yellow-and-purple-comics-rays-background-with-halftones-vector-vector-id1188261917?k=6&m=1188261917&s=170667a&w=0&h=Oa181sIxyBTihnlbs_rEplWvfR-LpHlBYl-7o0C2lL0=");
     background-repeat:no-repeat;
     background-size:auto; */
     // background-size:contain;
 	  margin:0 0;
-	  animation: fadeInAnimation ease 3s;
+	  animation: fadeInAnimation ease 5s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 	  

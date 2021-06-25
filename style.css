@@ -37,7 +37,7 @@
     background-size: cover;
   }
 .row{
-	border-color:red;
+/* 	border-color:red; */
 	width:100%;
 }
 /* .col-md-12{
@@ -67,11 +67,9 @@
   ul {
     perspective: 600;
     margin: 0 auto;
-	 background-color:white;
+/* 	 background-color:white; */
   }
-  li.col-md-3{
-	  background-color:white;
-}
+  
   li {
 /*     width: 200px;
     height: 200px; */
@@ -84,7 +82,7 @@
     position: relative;
     cursor: pointer;
     counter-increment: item;
-	  border:3px solid black;
+/* 	  border:3px solid black; */
 
     div {
       width: 100%;
@@ -133,7 +131,7 @@ a{
   color:#000;
 }
 div{
-	border:3px solid black;
+/* 	border:3px solid black; */
 }
 
 

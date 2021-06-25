@@ -141,7 +141,7 @@ div{
 
 
 @media screen and (max-width: 500px), 
-       screen and (max-height: 700px) {
+       screen and (min-height: 700px) {
 
 	body  {
    border:2px solid orange;

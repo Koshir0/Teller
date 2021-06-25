@@ -1,6 +1,7 @@
 
 
 @import url('https://fonts.googleapis.com/css?family=Faster+One|Monoton');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
   body {
 	  font-family: 'Faster One', cursive;
     width: 100%;
@@ -57,7 +58,7 @@
 }
   h1 {
     color: #000;
-    font-family: 'Monoton', cursive;
+    font-family: 'Bangers', cursive;
 /*     font-size: 70px; */
 /* 	  font-size: 1.4rem; */
 	  text-align:center;

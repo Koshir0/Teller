@@ -141,7 +141,7 @@ div{
 
 
 @media screen and (max-width: 500px) {
-	.row {
+	.col-md-12 {
    
     height: 100vh;
 	}

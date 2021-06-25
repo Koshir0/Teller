@@ -141,7 +141,7 @@ div{
 
 
 @media screen and (max-width: 500px) {
-	div.container{
+	div.row{
 		height:auto;
 	}
 	body{

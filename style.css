@@ -9,6 +9,8 @@
     background-size:auto;
     // background-size:contain;
 	  margin:0 0;
+	  font-size:2em;
+	  
   }
 
 .container {
@@ -142,9 +144,7 @@ div{
 
 @media screen and (max-width: 500px), 
        screen and (min-height: 700px) {
-*{
-	font-size:2em;
-	       }
+
 	body  {
 		
    border:2px solid orange;
